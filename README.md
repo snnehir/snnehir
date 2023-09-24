@@ -1,6 +1,5 @@
 ### Hi, I'm Sümeyye Nur 👋
 
-- 👩🏻‍💻 I'm a senior computer engineering student who is mostly interested in Backend Development.
-- 🔭 I'm currently working on my graduation project [Tree Track](https://github.com/Mansur74/TreeTrack) 🌳.
-- 🌱 I’m currently learning .NET Core in [Turkcell GYGY3 Bootcamp](https://github.com/snnehir/Turkcell-GYGY3-Bootcamp-Exercises).
+- 👩🏻‍💻 I'm a recent computer engineering graduate with a passion for Web Development. 
+- 🔭 I’m currently learning React.js, Next.js and Typescript. 
 - 📫 How to reach me: snnehir21@gmail.com
