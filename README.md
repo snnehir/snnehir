@@ -13,9 +13,9 @@
     🛠️ Skills & tools:
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,python,java,postgres,html,css,javascript" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,next,python,java,postgres,html,css,javascript,angular,vue" />
         </br>
-        <img src="https://skillicons.dev/icons?i=angular,vue,scss,tailwind,postman,git,vscode,stackoverflow,aws,docker" />
+        <img src="https://skillicons.dev/icons?i=scss,tailwind,bootstrap,postman,rabbitmq,redis,git,github,gitlab,vscode,stackoverflow,aws,docker" />
       </a>
     </p>
   </li>
