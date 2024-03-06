@@ -6,7 +6,7 @@
   </li>
   
   <li>
-    🌳 I’m currently working at <a href="https://seracell.com.tr/home/">Seracell</a> and learning React.js, Next.js and TypeScript.
+    🌳 I’m currently learning React.js, Next.js and TypeScript.
   </li>
   
   <li>
