@@ -10,12 +10,12 @@
   </li>
   
   <li>
-    🛠️ Skills & tools:
+    🛠️ Skills & interests & tools:
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,react,ts,next,python,postgres,cs,dotnet,html,css,javascript" />
+        <img src="https://skillicons.dev/icons?i=java,spring,react,ts,next,python,postgres,cs,dotnet,html,css,javascript,scss,ember,vue" />
         </br>
-        <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,git,gitlab,bitbucket,jenkins,stackoverflow,aws,docker,scss,ember,vue" />
+        <img src="https://skillicons.dev/icons?i=redis,rabbitmq,elasticsearch,kafka,git,gitlab,bitbucket,jenkins,stackoverflow,docker,linux,kubernetes,aws,idea" />
       </a>
     </p>
   </li>
