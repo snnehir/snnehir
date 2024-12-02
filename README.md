@@ -2,20 +2,20 @@
 
 <ul>
   <li>
-    👩🏻‍💻 I'm a recent computer engineering graduate with a passion for Web Development. 
+    👩🏻‍💻 I'm a software developer at TÜBİTAK Bilgem YTE
   </li>
   
   <li>
-    🌳 I’m currently learning React.js, Next.js and TypeScript.
+    ☕️ Currently learning Java Spring and Ember.js
   </li>
   
   <li>
     🛠️ Skills & tools:
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,next,python,java,postgres,html,css,javascript,angular,vue" />
+        <img src="https://skillicons.dev/icons?i=java,spring,react,ts,next,python,postgres,cs,dotnet,html,css,javascript" />
         </br>
-        <img src="https://skillicons.dev/icons?i=scss,tailwind,bootstrap,postman,rabbitmq,redis,git,github,gitlab,vscode,stackoverflow,aws,docker" />
+        <img src="https://skillicons.dev/icons?i=rabbitmq,redis,git,gitlab,bitbucket,jenkins,stackoverflow,aws,docker,scss,ember,vue" />
       </a>
     </p>
   </li>
