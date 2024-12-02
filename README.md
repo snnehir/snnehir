@@ -15,7 +15,7 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,react,ts,next,python,postgres,cs,dotnet,html,css,javascript" />
         </br>
-        <img src="https://skillicons.dev/icons?i=rabbitmq,redis,git,gitlab,bitbucket,jenkins,stackoverflow,aws,docker,scss,ember,vue" />
+        <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,git,gitlab,bitbucket,jenkins,stackoverflow,aws,docker,scss,ember,vue" />
       </a>
     </p>
   </li>
